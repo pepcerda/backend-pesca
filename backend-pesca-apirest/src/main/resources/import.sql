@@ -1,0 +1,1 @@
+INSERT INTO jornadas (create_at, modalidad, fecha_salida, dir_viento, fuerza_viento, fase_luna, observaciones, resultado, duracion) VALUES ('2018-01-07', 'inchiku', '2018-01-16', 'NW', '10 knots', 'Decreciente (20 dias)', 'ok', '1 pargo', '4');  
