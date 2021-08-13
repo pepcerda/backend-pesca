@@ -25,7 +25,7 @@ public class Jornada implements Serializable {
 	@Temporal(TemporalType.DATE)
 	private Date createAt;
 	
-	@Column
+	@Column(nullable = false)
 	private String modalidad;
 	
 	@Column(name="fecha_salida")
